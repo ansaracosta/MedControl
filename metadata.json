@@ -1,0 +1,8 @@
+{
+  "name": "MedControl - Gestão de Remédios",
+  "description": "Aplicativo completo para controle de estoque de remédios, receitas, calendário de consultas e alarmes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
